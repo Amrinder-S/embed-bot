@@ -33,4 +33,4 @@ async def on_ready():
     await tree.sync(guild=discord.Object(id=1172581606687518750))
     print("Bot started")
 
-client.run('MTE3MjU4MjI4OTgwNTQzMDc5NA.GMpxDi.6cYVb0ej6AXJ2NVUhyf2OF99WItMej1Lt0SZbY')
+client.run('BOT_TOKEN_HERE')
